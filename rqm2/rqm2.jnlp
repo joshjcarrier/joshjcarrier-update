@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+"
+  codebase="http://update.joshjcarrier.com/rqm2"
+  href="rqm2.jnlp">
+<information>
+  <title>ResNet Quota Monitor for UBC</title>
+  <vendor>Josh Carrier</vendor>
+  <homepage href="http://redirect.joshjcarrier.com?r=rqm2" />
+  <description>Quota monitor for UBC Vancouver residential network.</description>
+  <offline-allowed/>
+  <shortcut online="true">
+      <desktop/>
+      <menu submenu="ResNet Quota Monitor"/>
+  </shortcut>
+  <icon href="http://update.joshjcarrier.com/rqm2/rqm2.png"/>
+</information>
+<offline-allowed/>
+<security>
+  <all-permissions/>
+</security>
+<resources>
+  <j2se version="1.5+" />
+  <jar href="rqm2.jar"/>
+</resources>
+<application-desc main-class="com.joshjcarrier.decafos.DecafOS" />
+</jnlp>

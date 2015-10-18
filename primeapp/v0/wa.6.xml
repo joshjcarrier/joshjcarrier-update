@@ -1,0 +1,3277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPartner>
+  <Partner>
+    <Id>306999</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Fred's House</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>Redmond Town Center</AddressLine>
+    <Phone>(425) 555-1234</Phone>
+    <Latitude>47.670174987622545</Latitude>
+    <Longitude>-122.12028718494878</Longitude>
+    <Deal>Every hour is happy hour at Fred's!</Deal>
+  </Partner>
+  <Partner>
+    <Id>306000</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>13 Coins Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98019</PostalCode>
+    <AddressLine>125 Boren Ave N</AddressLine>
+    <Phone>(206) 682-2513</Phone>
+    <Latitude>47.618818</Latitude>
+    <Longitude>-122.336069</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets bookedThis location only.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306001</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>2 Seven 2 Grill and Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Covington</Locality>
+    <PostalCode>98042</PostalCode>
+    <AddressLine>27120 174th Pl SE</AddressLine>
+    <Phone>(253) 236-4623</Phone>
+    <Latitude>47.358818</Latitude>
+    <Longitude>-122.108948</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306002</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>2100 Bar Bistro and Ballroom</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>2100 Alaskan Way</AddressLine>
+    <Phone>(206) 256-1040</Phone>
+    <Latitude>47.610668</Latitude>
+    <Longitude>-122.346573</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306003</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>4th Street Grill &amp; Lounge</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Renton</Locality>
+    <PostalCode>98056</PostalCode>
+    <AddressLine>4004 NE 4th St</AddressLine>
+    <Phone>(425) 255-3595</Phone>
+    <Latitude>47.488907</Latitude>
+    <Longitude>-122.165565</Longitude>
+    <Deal>20% off total guest check(up to six adults)20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306004</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>aa Sushi</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98034</PostalCode>
+    <AddressLine>9730 NE 119th Way</AddressLine>
+    <Phone>(425) 821-7989</Phone>
+    <Latitude>47.707078</Latitude>
+    <Longitude>-122.211526</Longitude>
+    <Deal>20% off total guest check(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306005</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Al Boccalino</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98104</PostalCode>
+    <AddressLine>1 Yesler Way</AddressLine>
+    <Phone>(206) 622-7688</Phone>
+    <Latitude>47.60154</Latitude>
+    <Longitude>-122.33567</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306006</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Al Lago Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lake Tapps</Locality>
+    <PostalCode>98391</PostalCode>
+    <AddressLine>3110 Sumner Tapps Hwy. E.</AddressLine>
+    <Phone>(253) 863-8636</Phone>
+    <Latitude>47.229396</Latitude>
+    <Longitude>-122.199455</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306007</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Alexas Café &amp; Catering</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bothell</Locality>
+    <PostalCode>98011</PostalCode>
+    <AddressLine>10115 Main Street</AddressLine>
+    <Phone>(425) 402-1754</Phone>
+    <Latitude>47.759869</Latitude>
+    <Longitude>-122.204773</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306008</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Amante Pizza &amp; Pasta</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Issaquah</Locality>
+    <PostalCode>98027</PostalCode>
+    <AddressLine>131 Front Street N</AddressLine>
+    <Phone>(425) 313-9600</Phone>
+    <Latitude>47.531715</Latitude>
+    <Longitude>-122.036972</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off pizza10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306009</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Americana Bistro</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Olympia</Locality>
+    <PostalCode>98502</PostalCode>
+    <AddressLine>2300 Evergreen Park Dr.</AddressLine>
+    <Phone>(360) 943-4000</Phone>
+    <Latitude>47.027309</Latitude>
+    <Longitude>-122.913361</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders</Deal>
+  </Partner>
+  <Partner>
+    <Id>306010</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Andiamo</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>938 110th Ave. NE</AddressLine>
+    <Phone>(425) 452-9602</Phone>
+    <Latitude>47.618679</Latitude>
+    <Longitude>-122.193411</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306011</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Angels Thai Cuisine</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Olympia</Locality>
+    <PostalCode>98501</PostalCode>
+    <AddressLine>318 4th Ave East</AddressLine>
+    <Phone>(360) 786-1252</Phone>
+    <Latitude>47.045242</Latitude>
+    <Longitude>-122.898866</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306012</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Aqua Terra</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98188</PostalCode>
+    <AddressLine>3201 S 176th St.</AddressLine>
+    <Phone>(206) 241-2000</Phone>
+    <Latitude>47.443943</Latitude>
+    <Longitude>-122.290642</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306013</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Archery Bistro</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Normandy Park</Locality>
+    <PostalCode>98148</PostalCode>
+    <AddressLine>19803 1st Ave S.</AddressLine>
+    <Phone>(206) 429-3145</Phone>
+    <Latitude>47.425012</Latitude>
+    <Longitude>-122.335527</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306014</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Armondos</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Renton</Locality>
+    <PostalCode>98057</PostalCode>
+    <AddressLine>310 Wells Ave S</AddressLine>
+    <Phone>(425) 228-0759</Phone>
+    <Latitude>47.479392</Latitude>
+    <Longitude>-122.205226</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306015</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Arnies in Edmonds</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Edmonds</Locality>
+    <PostalCode>98020</PostalCode>
+    <AddressLine>300 Admiral Way</AddressLine>
+    <Phone>(425) 771-5688</Phone>
+    <Latitude>47.810085</Latitude>
+    <Longitude>-122.387052</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.75% off 2nd brunch</Deal>
+  </Partner>
+  <Partner>
+    <Id>306016</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Arnies in Mukilteo</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Mukilteo</Locality>
+    <PostalCode>98275</PostalCode>
+    <AddressLine>714 2nd Street</AddressLine>
+    <Phone>(425) 355-2181</Phone>
+    <Latitude>47.947502</Latitude>
+    <Longitude>-122.303352</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.75% off 2nd brunch</Deal>
+  </Partner>
+  <Partner>
+    <Id>306017</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Bamboo Bar &amp; Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98116</PostalCode>
+    <AddressLine>2806 Alki Ave SW</AddressLine>
+    <Phone>(206) 937-3023</Phone>
+    <Latitude>47.578505</Latitude>
+    <Longitude>-122.412162</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off on all 'To Go' orders10% savings on banquets bookedBreakfast served Saturday and Sunday only</Deal>
+  </Partner>
+  <Partner>
+    <Id>306018</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Basils</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tukwila</Locality>
+    <PostalCode>98501</PostalCode>
+    <AddressLine>15920 West Valley Hwy.</AddressLine>
+    <Phone>(425) 227-9406</Phone>
+    <Latitude>47.459548</Latitude>
+    <Longitude>-122.244333</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306019</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Basils Kitchen</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>300 112th Ave. SE</AddressLine>
+    <Phone>(425) 452-4848</Phone>
+    <Latitude>47.607246</Latitude>
+    <Longitude>-122.189362</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306020</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Beach Café</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98033</PostalCode>
+    <AddressLine>1170 Carillon Point</AddressLine>
+    <Phone>(425) 889-0303</Phone>
+    <Latitude>47.657352</Latitude>
+    <Longitude>-122.206661</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306021</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Ben Dews Clubhouse Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98406</PostalCode>
+    <AddressLine>6501 6th Ave</AddressLine>
+    <Phone>(253) 564-4442</Phone>
+    <Latitude>47.255764</Latitude>
+    <Longitude>-122.524498</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306022</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Benihana</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98101</PostalCode>
+    <AddressLine>1200 Fifth Ave.</AddressLine>
+    <Phone>(206) 682-4686</Phone>
+    <Latitude>47.608174</Latitude>
+    <Longitude>-122.333053</Longitude>
+    <Deal>Lunch for Two $17 orDinner for Two $35 1Two sushi lunch buffets $23 21 Create your own lunch/dinner by selecting two of your Benihanafavorites.2 Sushi buffets valid only in the sushi lounge.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306023</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Big E Ale House and Brewery</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lynnwood</Locality>
+    <PostalCode>98036</PostalCode>
+    <AddressLine>5030 208th Street SW</AddressLine>
+    <Phone>(425) 672-7051</Phone>
+    <Latitude>47.809872</Latitude>
+    <Longitude>-122.302124</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306024</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Big Fish Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98033</PostalCode>
+    <AddressLine>10426 NE Northup Way</AddressLine>
+    <Phone>20% off the total guest check. Not valid during Happy Hour.</Phone>
+    <Latitude>47.643837</Latitude>
+    <Longitude>-122.200714</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306025</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Bilbao Tapas Bar and Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98105</PostalCode>
+    <AddressLine>4500 Ninth Avenue NE</AddressLine>
+    <Phone>(206) 547-5034</Phone>
+    <Latitude>47.661457</Latitude>
+    <Longitude>-122.318185</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306026</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>bin on the lake</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98033</PostalCode>
+    <AddressLine>1270 Carillon Point</AddressLine>
+    <Phone>(425) 803-5595</Phone>
+    <Latitude>47.657335</Latitude>
+    <Longitude>-122.206665</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306027</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>BOKA Kitchen &amp; Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98104</PostalCode>
+    <AddressLine>1010 1st Ave.</AddressLine>
+    <Phone>(206) 357-9000</Phone>
+    <Latitude>47.604918</Latitude>
+    <Longitude>-122.33623</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306028</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Boulangerie Nantaise</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>2507 4th Avenue</AddressLine>
+    <Phone>Receive 20% off your bill.</Phone>
+    <Latitude>47.616719</Latitude>
+    <Longitude>-122.346491</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306029</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Boxleys</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>North Bend</Locality>
+    <PostalCode>98045</PostalCode>
+    <AddressLine>101 W North Bend Way</AddressLine>
+    <Phone>(425) 292-9307</Phone>
+    <Latitude>47.494801</Latitude>
+    <Longitude>-121.786156</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306030</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Brasserie Margaux</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>401 Lenora</AddressLine>
+    <Phone>(206) 777-1990</Phone>
+    <Latitude>47.613815</Latitude>
+    <Longitude>-122.340691</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306031</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Brix 25º Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Gig Harbor</Locality>
+    <PostalCode>98335</PostalCode>
+    <AddressLine>7707 Pioneer Way</AddressLine>
+    <Phone>(253) 858-6626</Phone>
+    <Latitude>47.328323</Latitude>
+    <Longitude>-122.581718</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306032</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Bucks American Café</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Everett</Locality>
+    <PostalCode>98201</PostalCode>
+    <AddressLine>2901 Hewitt Ave.</AddressLine>
+    <Phone>(425) 258-1351</Phone>
+    <Latitude>47.979408</Latitude>
+    <Longitude>-122.192131</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306033</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Budapest Bistro</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lynnwood</Locality>
+    <PostalCode>98037</PostalCode>
+    <AddressLine>12926 Mukilteo Speedway</AddressLine>
+    <Phone>(425) 513-9846</Phone>
+    <Latitude>47.881156</Latitude>
+    <Longitude>-122.279281</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306034</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Buenos Aires Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>220 Virginia Street</AddressLine>
+    <Phone>(206) 441-7076</Phone>
+    <Latitude>47.611945</Latitude>
+    <Longitude>-122.341714</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306035</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Cafe Bengodi</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98104</PostalCode>
+    <AddressLine>700 1st Ave.</AddressLine>
+    <Phone>(206) 381-0705</Phone>
+    <Latitude>47.602812</Latitude>
+    <Longitude>-122.334294</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306036</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Cafe De Paris</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Edmonds</Locality>
+    <PostalCode>98020</PostalCode>
+    <AddressLine>109 Main St.</AddressLine>
+    <Phone>(425) 771-2350</Phone>
+    <Latitude>47.812252</Latitude>
+    <Longitude>-122.38131</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306037</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Canyons Restaurant UPDATED!</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Monroe</Locality>
+    <PostalCode>98272</PostalCode>
+    <AddressLine>14919 N Kelsey St</AddressLine>
+    <Phone>(360) 805-5453</Phone>
+    <Latitude>47.862578</Latitude>
+    <Longitude>-121.976066</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306038</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Canyons Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>15740 Redmond Way</AddressLine>
+    <Phone>(425) 556-1390</Phone>
+    <Latitude>47.674328</Latitude>
+    <Longitude>-122.130083</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306039</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Canyons Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bothell</Locality>
+    <PostalCode>98021</PostalCode>
+    <AddressLine>22010 17th Ave SE</AddressLine>
+    <Phone>(425) 485-3288</Phone>
+    <Latitude>47.798062</Latitude>
+    <Longitude>-122.210902</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306040</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Capri Ristorante Italiano</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Mill Creek</Locality>
+    <PostalCode>98012</PostalCode>
+    <AddressLine>15121 Main Street</AddressLine>
+    <Phone>(425) 347-8500</Phone>
+    <Latitude>47.861136</Latitude>
+    <Longitude>-122.220324</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306041</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Cascades Grille</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98008</PostalCode>
+    <AddressLine>3225 158th Ave. SE</AddressLine>
+    <Phone>(425) 644-2500</Phone>
+    <Latitude>47.581468</Latitude>
+    <Longitude>-122.133016</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306042</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Cellar 46</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Mercer Island</Locality>
+    <PostalCode>98040</PostalCode>
+    <AddressLine>7650 SE 27th Street</AddressLine>
+    <Phone>(206) 407-3016</Phone>
+    <Latitude>47.587177</Latitude>
+    <Longitude>-122.235741</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306043</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Cellars Restaurant &amp; Lounge</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>2132 First Ave</AddressLine>
+    <Phone>(206) 448-8757</Phone>
+    <Latitude>47.61219</Latitude>
+    <Longitude>-122.344258</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306044</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>China Harbor</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>2040 Westlake Ave. N</AddressLine>
+    <Phone>(206) 286-1688</Phone>
+    <Latitude>47.637383</Latitude>
+    <Longitude>-122.339661</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' ordersNot valid on Lunch Specials</Deal>
+  </Partner>
+  <Partner>
+    <Id>306045</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Cicada Restaurant &amp; Lounge</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Olympia</Locality>
+    <PostalCode>98506</PostalCode>
+    <AddressLine>700 4th Ave</AddressLine>
+    <Phone>(360) 753-5700</Phone>
+    <Latitude>47.045681</Latitude>
+    <Longitude>-122.894119</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306046</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Citrus Lake Union</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>1001 Fairview Ave N</AddressLine>
+    <Phone>(206) 402-6364</Phone>
+    <Latitude>47.628819</Latitude>
+    <Longitude>-122.331749</Longitude>
+    <Deal>20% off total guest check(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306047</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Claim Jumper Restaurants</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>7210 164th Ave NE</AddressLine>
+    <Phone>Receive 15% off your entire bill, excluding alcohol</Phone>
+    <Latitude>47.668785</Latitude>
+    <Longitude>-122.120583</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306048</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Coho Café</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Issaquah</Locality>
+    <PostalCode>98029</PostalCode>
+    <AddressLine>6130 East Lake Sammamish Pkwy</AddressLine>
+    <Phone>(425) 391-4040</Phone>
+    <Latitude>47.547306</Latitude>
+    <Longitude>-122.0404</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.Not valid on 1/2 price Happy Hour Specials</Deal>
+  </Partner>
+  <Partner>
+    <Id>306049</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Coho Café</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>8976 161st Ave NE</AddressLine>
+    <Phone>(425) 885-2646</Phone>
+    <Latitude>47.682259</Latitude>
+    <Longitude>-122.123703</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.Not valid on 1/2 price Happy Hour Specials</Deal>
+  </Partner>
+  <Partner>
+    <Id>306050</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Copper Falls Restaurant and Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Auburn</Locality>
+    <PostalCode>98092</PostalCode>
+    <AddressLine>29630 Green River Road SE</AddressLine>
+    <Phone>(253) 876-1957</Phone>
+    <Latitude>47.336954</Latitude>
+    <Longitude>-122.2082</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306051</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Cosmos Ristorante</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Port Orchard</Locality>
+    <PostalCode>98366</PostalCode>
+    <AddressLine>1821 SE Lund Avenue</AddressLine>
+    <Phone>(360) 895-3138</Phone>
+    <Latitude>47.51981</Latitude>
+    <Longitude>-122.62851</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders</Deal>
+  </Partner>
+  <Partner>
+    <Id>306052</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Crossroads Bar &amp; Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98008</PostalCode>
+    <AddressLine>15600 NE 8th St</AddressLine>
+    <Phone>(425) 457-7905</Phone>
+    <Latitude>47.617117</Latitude>
+    <Longitude>-122.132215</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306053</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Cucina! Cucina!</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Issaquah</Locality>
+    <PostalCode>98027</PostalCode>
+    <AddressLine>1510 11th Avenue NE</AddressLine>
+    <Phone>(425) 391-3800</Phone>
+    <Latitude>47.5458</Latitude>
+    <Longitude>-122.014502</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306054</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Daman’s Bar and Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>14510 NE 24th ST</AddressLine>
+    <Phone>20% off the bill.</Phone>
+    <Latitude>47.631478479053648</Latitude>
+    <Longitude>-122.14298885177406</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306055</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Danube Bistro</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>11000 NE 10th Street</AddressLine>
+    <Phone>(425) 452-8722</Phone>
+    <Latitude>47.619447</Latitude>
+    <Longitude>-122.193435</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306056</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Dennys</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98007</PostalCode>
+    <AddressLine>2233 148th Ave NE</AddressLine>
+    <Phone>location only.</Phone>
+    <Latitude>47.630432</Latitude>
+    <Longitude>-122.143471</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306057</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Desert Fire UPDATED!</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>7211 166th Ave. NE</AddressLine>
+    <Phone>(425) 895-1500</Phone>
+    <Latitude>47.668644</Latitude>
+    <Longitude>-122.119051</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306058</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Dockside Bistro &amp; Wine Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Olympia</Locality>
+    <PostalCode>98501</PostalCode>
+    <AddressLine>601 columbia St NW</AddressLine>
+    <Phone>(360) 956-1928</Phone>
+    <Latitude>47.049183</Latitude>
+    <Longitude>-122.903797</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306059</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Dragonfish Asian Café</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98101</PostalCode>
+    <AddressLine>722 Pine St.</AddressLine>
+    <Phone>(206) 467-7777</Phone>
+    <Latitude>47.612838</Latitude>
+    <Longitude>-122.334059</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306060</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Earth &amp; Ocean</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98101</PostalCode>
+    <AddressLine>1112 4th Ave.</AddressLine>
+    <Phone>(206) 264-6060</Phone>
+    <Latitude>47.607388</Latitude>
+    <Longitude>-122.333633</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306061</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Eastlake Bar and Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98102</PostalCode>
+    <AddressLine>2947 Eastlake Ave E</AddressLine>
+    <Phone>(206) 957-7777</Phone>
+    <Latitude>47.648506</Latitude>
+    <Longitude>-122.324074</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.Breakfast served Sat.-Sun. only.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306062</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Eastside Bar &amp; Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>625 116th Ave. NE</AddressLine>
+    <Phone>(425) 455-9444</Phone>
+    <Latitude>47.615948</Latitude>
+    <Longitude>-122.186676</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306063</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Edina Sushi</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lynnwood</Locality>
+    <PostalCode>98036</PostalCode>
+    <AddressLine>19720 44th Ave W</AddressLine>
+    <Phone>(425) 776-8068</Phone>
+    <Latitude>47.819725</Latitude>
+    <Longitude>-122.294182</Longitude>
+    <Deal>20% off total guest check(up to six adults)20% off total bill when dining alone20% off on all 'To Go' orders</Deal>
+  </Partner>
+  <Partner>
+    <Id>306064</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Epulo Bistro</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Edmonds</Locality>
+    <PostalCode>98020</PostalCode>
+    <AddressLine>526 Main St</AddressLine>
+    <Phone>(425) 678-8680</Phone>
+    <Latitude>47.810291</Latitude>
+    <Longitude>-122.376358</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.75% off second brunch or buffet20% off total bill when dining alone20% off on all 'To Go' orders</Deal>
+  </Partner>
+  <Partner>
+    <Id>306065</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Ettas Seafood</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>2020 Western Ave</AddressLine>
+    <Phone>(206) 443-6000</Phone>
+    <Latitude>47.61092</Latitude>
+    <Longitude>-122.344012</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306066</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>F.X. McRorys</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98104</PostalCode>
+    <AddressLine>419 Occidental Ave South</AddressLine>
+    <Phone>(206) 623-4800</Phone>
+    <Latitude>47.598572</Latitude>
+    <Longitude>-122.333282</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306067</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Field of Champions Sports Bar &amp; Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Issaquah</Locality>
+    <PostalCode>98027</PostalCode>
+    <AddressLine>385 NW Gillman Blvd</AddressLine>
+    <Phone>specials.</Phone>
+    <Latitude>47.541061</Latitude>
+    <Longitude>-122.042969</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306068</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Finaghty’s Irish Pub</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Snoqualmie</Locality>
+    <PostalCode>98065</PostalCode>
+    <AddressLine>7726 Center Blvd SE, Suite 110</AddressLine>
+    <Phone>Receive 20% off your total bill (up to 6 people). Excludes alcohol.</Phone>
+    <Latitude>47.530716</Latitude>
+    <Longitude>-121.873003</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306069</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Fino Wine Bar &amp; Fine Food</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellingham</Locality>
+    <PostalCode>98225</PostalCode>
+    <AddressLine>804 10th St</AddressLine>
+    <Phone>(360) 676-9463</Phone>
+    <Latitude>48.726006</Latitude>
+    <Longitude>-122.505539</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306070</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>FireCreek Grill @ Druids Glen</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Covington</Locality>
+    <PostalCode>98042</PostalCode>
+    <AddressLine>29925 207th Ave. SE</AddressLine>
+    <Phone>(253) 638-1200</Phone>
+    <Latitude>47.333013</Latitude>
+    <Longitude>-122.064866</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306071</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Flat Iron Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Issaquah</Locality>
+    <PostalCode>98037</PostalCode>
+    <AddressLine>317 NW Gilman Blvd</AddressLine>
+    <Phone>20% off the bill.</Phone>
+    <Latitude>47.540469</Latitude>
+    <Longitude>-122.040923</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306072</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Floyds Place</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>521 1st Ave.</AddressLine>
+    <Phone>(206) 284-3542</Phone>
+    <Latitude>47.623569</Latitude>
+    <Longitude>-122.355624</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306073</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Forecasters Pub</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Woodinville</Locality>
+    <PostalCode>98072</PostalCode>
+    <AddressLine>14300 NE 145th Street</AddressLine>
+    <Phone>(425) 483-3232</Phone>
+    <Latitude>47.733001</Latitude>
+    <Longitude>-122.149035</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306074</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Fresh Bistro</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98116</PostalCode>
+    <AddressLine>4725 42nd Ave SW</AddressLine>
+    <Phone>(206) 935-3733</Phone>
+    <Latitude>47.560563</Latitude>
+    <Longitude>-122.385694</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306075</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Girardis Osteria Italiana</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Edmonds</Locality>
+    <PostalCode>98020</PostalCode>
+    <AddressLine>504 5th Ave S</AddressLine>
+    <Phone>(425) 673-5278</Phone>
+    <Latitude>47.807121</Latitude>
+    <Longitude>-122.377968</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306076</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Goldbergs’ Famous Delicatessen</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98006</PostalCode>
+    <AddressLine>3924 Fatoria Blvd SE</AddressLine>
+    <Phone>catering orders.</Phone>
+    <Latitude>47.575214795765667</Latitude>
+    <Longitude>-122.16943534424036</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306077</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Grand Cru Wine Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>1080 108th Avenue NE</AddressLine>
+    <Phone>(425) 455-4278</Phone>
+    <Latitude>47.620478</Latitude>
+    <Longitude>-122.19611</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306078</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Grazie</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bothell</Locality>
+    <PostalCode>98021</PostalCode>
+    <AddressLine>23207 Bothell-Everett Hwy SE</AddressLine>
+    <Phone>(425) 402-9600</Phone>
+    <Latitude>47.78738</Latitude>
+    <Longitude>-122.219082</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306079</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Grazie Caffe Italiano</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tukwila</Locality>
+    <PostalCode>98188</PostalCode>
+    <AddressLine>16943 Southcenter Pkwy</AddressLine>
+    <Phone>(206) 575-1606</Phone>
+    <Latitude>47.451473</Latitude>
+    <Longitude>-122.26267</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306080</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Grazie Caffe Italiano</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tukwila</Locality>
+    <PostalCode>98188</PostalCode>
+    <AddressLine>16943 Southcenter Pkwy</AddressLine>
+    <Phone>party (party meaning 2 or more people) complimentary.</Phone>
+    <Latitude>47.451473</Latitude>
+    <Longitude>-122.26267</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306081</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Greenlake Bar &amp; Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98115</PostalCode>
+    <AddressLine>7200 E Greenlake Dr. N</AddressLine>
+    <Phone>(206) 729-6179</Phone>
+    <Latitude>47.680454</Latitude>
+    <Longitude>-122.325715</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets bookedBreakfast served Saturday and Sunday.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306082</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>H.D. Hotspurs</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kent</Locality>
+    <PostalCode>98031</PostalCode>
+    <AddressLine>315 Washington Ave S</AddressLine>
+    <Phone>(253) 854-5653</Phone>
+    <Latitude>47.379073</Latitude>
+    <Longitude>-122.247562</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306083</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Harborside Bistro</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellingham</Locality>
+    <PostalCode>98225</PostalCode>
+    <AddressLine>One Bellwether Way</AddressLine>
+    <Phone>(360) 392-3200</Phone>
+    <Latitude>48.754135</Latitude>
+    <Longitude>-122.497055</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306084</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Hav-A-Java Sandwich Shop</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98444</PostalCode>
+    <AddressLine>10228 Pacific Avenue S</AddressLine>
+    <Phone>Receive 20% off your total bill.</Phone>
+    <Latitude>47.163654</Latitude>
+    <Longitude>-122.434944</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306085</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>HG Bistro</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Puyallup</Locality>
+    <PostalCode>98372</PostalCode>
+    <AddressLine>1618 East Main Avenue</AddressLine>
+    <Phone>(253) 845-5747</Phone>
+    <Latitude>47.191743</Latitude>
+    <Longitude>-122.272799</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306086</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Himitsu Sushi and Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98005</PostalCode>
+    <AddressLine>13112 NE 20th Street</AddressLine>
+    <Suite>200</Suite>
+    <Phone>(425) 882-2500</Phone>
+    <Latitude>47.628198</Latitude>
+    <Longitude>-122.165589</Longitude>
+    <Deal>20% off sushi bar(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306087</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Hiryu Sushi</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Woodinville</Locality>
+    <PostalCode>98072</PostalCode>
+    <AddressLine>17321 140th Ave NE</AddressLine>
+    <Phone>20% off the total bill for both lunch and dinner.</Phone>
+    <Latitude>47.753108</Latitude>
+    <Longitude>-122.152911</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306088</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Ibiza</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98104</PostalCode>
+    <AddressLine>528 2nd Ave</AddressLine>
+    <Phone>(206) 381-9090</Phone>
+    <Latitude>47.602002</Latitude>
+    <Longitude>-122.332089</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.Valid in dining room only</Deal>
+  </Partner>
+  <Partner>
+    <Id>306089</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>icon Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98101</PostalCode>
+    <AddressLine>1933 5th Ave</AddressLine>
+    <Phone>(206) 441-6330</Phone>
+    <Latitude>47.613055</Latitude>
+    <Longitude>-122.338459</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306090</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Il Bistro</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98101</PostalCode>
+    <AddressLine>93 Pike St</AddressLine>
+    <Phone>(206) 682-3049</Phone>
+    <Latitude>47.608702</Latitude>
+    <Longitude>-122.340218</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306091</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Jack Niemanns Black Forest Steakhouse</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellingham</Locality>
+    <PostalCode>98226</PostalCode>
+    <AddressLine>1263 Barkley Blvd</AddressLine>
+    <Phone>(360) 733-9185</Phone>
+    <Latitude>48.771342</Latitude>
+    <Longitude>-122.458203</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306092</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Jade Dragon</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>17181 Redmond Way</AddressLine>
+    <Phone>(425) 883-1828</Phone>
+    <Latitude>47.670845</Latitude>
+    <Longitude>-122.111681</Longitude>
+    <Deal>20% off total guest check(up to six adults)10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306093</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Jewel of India</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98105</PostalCode>
+    <AddressLine>4735 University Way NE</AddressLine>
+    <Phone>(206) 523-5275</Phone>
+    <Latitude>47.663773</Latitude>
+    <Longitude>-122.31328</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306094</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Joeseppis Italian Ristorante</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98406</PostalCode>
+    <AddressLine>2207 N Pearl Street</AddressLine>
+    <Phone>(253) 761-5555</Phone>
+    <Latitude>47.268251</Latitude>
+    <Longitude>-122.515631</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306095</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Johnnys at Fife</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Fife</Locality>
+    <PostalCode>98421</PostalCode>
+    <AddressLine>5211 20th Street East</AddressLine>
+    <Phone>(253) 922-6686</Phone>
+    <Latitude>47.239777</Latitude>
+    <Longitude>-122.358658</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306096</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Johnnys Dock</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98421</PostalCode>
+    <AddressLine>1900 East D Street</AddressLine>
+    <Phone>(253) 627-3186</Phone>
+    <Latitude>47.245675</Latitude>
+    <Longitude>-122.430752</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306097</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Johnnys Dock</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98421</PostalCode>
+    <AddressLine>1900 East D Street</AddressLine>
+    <Phone>(253) 627-3186</Phone>
+    <Latitude>47.245675</Latitude>
+    <Longitude>-122.430752</Longitude>
+    <Deal>Receive the second adult entree of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306098</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Julias in Issaquah</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Issaquah</Locality>
+    <PostalCode>98027</PostalCode>
+    <AddressLine>375 NW Gilman Blvd</AddressLine>
+    <Phone>(425) 557-1919</Phone>
+    <Latitude>47.540741</Latitude>
+    <Longitude>-122.042671</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306099</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Julias of Wallingford</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98103</PostalCode>
+    <AddressLine>4401 Wallingford Ave</AddressLine>
+    <Phone>(206) 633-1175</Phone>
+    <Latitude>47.660473</Latitude>
+    <Longitude>-122.336555</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306100</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Julias on Broadway</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98112</PostalCode>
+    <AddressLine>300 Broadway E</AddressLine>
+    <Phone>(206) 860-1818</Phone>
+    <Latitude>47.621323</Latitude>
+    <Longitude>-122.320541</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306101</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Junipers Restaurant &amp; Lounge</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Issaquah</Locality>
+    <PostalCode>98027</PostalCode>
+    <AddressLine>Holiday Inn</AddressLine>
+    <Phone>20% off the guest check.</Phone>
+    <Latitude>47.506468941769491</Latitude>
+    <Longitude>-121.9923558598186</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306102</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>JUNO</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98104</PostalCode>
+    <AddressLine>700 3rd Avenue</AddressLine>
+    <Phone>(206) 631-8080</Phone>
+    <Latitude>47.603848</Latitude>
+    <Longitude>-122.331909</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306103</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Ken Zaburo Sushi Bar &amp; Asian Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98034</PostalCode>
+    <AddressLine>12413 NE 124th Street</AddressLine>
+    <Phone>Receive 20% off your total bill.</Phone>
+    <Latitude>47.708721</Latitude>
+    <Longitude>-122.175526</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306104</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>King &amp; I</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>10509 Main St.</AddressLine>
+    <Phone>(425) 462-9337</Phone>
+    <Latitude>47.609983</Latitude>
+    <Longitude>-122.199917</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306105</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Kobe Japanese Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>890 110th Ave NE</AddressLine>
+    <Phone>(425) 451-3888</Phone>
+    <Latitude>47.618038</Latitude>
+    <Longitude>-122.193403</Longitude>
+    <Deal>20% off total guest check(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306106</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Kuru Kuru Sushi</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellingham</Locality>
+    <PostalCode>98225</PostalCode>
+    <AddressLine>11 Bellwether Way</AddressLine>
+    <Phone>(360) 392-8224</Phone>
+    <Latitude>48.755581</Latitude>
+    <Longitude>-122.494766</Longitude>
+    <Deal>20% off total guest check(up to six adults)20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306107</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Kyoto Japanese Steakhouse</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellingham</Locality>
+    <PostalCode>98225</PostalCode>
+    <AddressLine>115 N Samish Way</AddressLine>
+    <Phone>(360) 756-0058</Phone>
+    <Latitude>48.735908</Latitude>
+    <Longitude>-122.470081</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off sushi20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306108</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>La Palma Family Mexican Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lakewood</Locality>
+    <PostalCode>98499</PostalCode>
+    <AddressLine>5701 Lakewood Town Center Blvd. SW</AddressLine>
+    <Phone>(253) 582-8349</Phone>
+    <Latitude>47.165424</Latitude>
+    <Longitude>-122.511276</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306109</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>La Palma Mexican Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98119</PostalCode>
+    <AddressLine>3456 15th Avenue W</AddressLine>
+    <Phone>(206) 284-1001</Phone>
+    <Latitude>47.652008</Latitude>
+    <Longitude>-122.375809</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306110</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Lake Forest Bar &amp; Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lake Forest Park</Locality>
+    <PostalCode>98155</PostalCode>
+    <AddressLine>17535 Ballinger Way NE</AddressLine>
+    <Phone>(206) 364-1261</Phone>
+    <Latitude>47.755563</Latitude>
+    <Longitude>-122.279512</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306111</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Lanna Thai</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Everett</Locality>
+    <PostalCode>98203</PostalCode>
+    <AddressLine>7825 Evergreen Way, Ste B</AddressLine>
+    <Phone>(425) 438-3888</Phone>
+    <Latitude>47.926777</Latitude>
+    <Longitude>-122.222603</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders</Deal>
+  </Partner>
+  <Partner>
+    <Id>306112</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Library Bistro and Bookstore Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98104</PostalCode>
+    <AddressLine>92 Madison Street</AddressLine>
+    <Phone>(206) 624-3646</Phone>
+    <Latitude>47.604677</Latitude>
+    <Longitude>-122.336681</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.Dinner is served in the Library Bistro Bar20% off total bill when dining alone20% off on all 'To Go' orders</Deal>
+  </Partner>
+  <Partner>
+    <Id>306113</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Local 360</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>2234 1st Ave</AddressLine>
+    <Phone>(206) 441-9360</Phone>
+    <Latitude>47.613005</Latitude>
+    <Longitude>-122.345603</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306114</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Lola</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>2000 4th Ave.</AddressLine>
+    <Phone>(206) 441-1430</Phone>
+    <Latitude>47.613434</Latitude>
+    <Longitude>-122.34005</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.$15 off dinner prix-fixe menuNot valid on brunchNot valid on room service or hotel dining</Deal>
+  </Partner>
+  <Partner>
+    <Id>306115</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Luisa`s Mexican Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98117</PostalCode>
+    <AddressLine>9776 Holman Road NW</AddressLine>
+    <Phone>Receive 20% off your total bill (excluding alcohol).</Phone>
+    <Latitude>47.700832</Latitude>
+    <Longitude>-122.362717</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306116</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Mabel’s on the Ridge</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Snoqualmie</Locality>
+    <PostalCode>98065</PostalCode>
+    <AddressLine>7727 Center Blvd SE</AddressLine>
+    <Phone>20% off the entire bill.</Phone>
+    <Latitude>47.530605</Latitude>
+    <Longitude>-121.873376</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306117</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Marcos Restaurant &amp; Lounge</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lynnwood</Locality>
+    <PostalCode>98037</PostalCode>
+    <AddressLine>17525 Hwy. 99</AddressLine>
+    <Phone>(425) 743-6627</Phone>
+    <Latitude>47.839696795901489</Latitude>
+    <Longitude>-122.29909965544387</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306118</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Mariachi Alegre</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Federal Way</Locality>
+    <PostalCode>98003</PostalCode>
+    <AddressLine>29100 Pacific Hwy. S.</AddressLine>
+    <Phone>(253) 945-7717</Phone>
+    <Latitude>47.341145</Latitude>
+    <Longitude>-122.311806</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets bookedBreakfast served Sat-Sun only.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306119</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Mayan Family Mexican Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lacey</Locality>
+    <PostalCode>98516</PostalCode>
+    <AddressLine>2120 Marvin Rd NE</AddressLine>
+    <Phone>(360) 456-8222</Phone>
+    <Latitude>47.065578</Latitude>
+    <Longitude>-122.765472</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306120</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Mayan Family Mexican Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lacey</Locality>
+    <PostalCode>98503</PostalCode>
+    <AddressLine>4520 Pacific Ave SE</AddressLine>
+    <Phone>(360) 491-8244</Phone>
+    <Latitude>47.037888</Latitude>
+    <Longitude>-122.824738</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306121</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Mayan Family Mexican Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lacey</Locality>
+    <PostalCode>98516</PostalCode>
+    <AddressLine>4820 Yelm Hwy SE</AddressLine>
+    <Phone>(360) 456-0818</Phone>
+    <Latitude>46.996387</Latitude>
+    <Longitude>-122.821998</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306122</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>McCarthys Bar &amp; Grille</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Lynnwood</Locality>
+    <PostalCode>98036</PostalCode>
+    <AddressLine>20610 44th Ave West</AddressLine>
+    <Phone>(425) 582-4251</Phone>
+    <Latitude>47.811333</Latitude>
+    <Longitude>-122.293922</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306123</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Melrose Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Renton</Locality>
+    <PostalCode>98057</PostalCode>
+    <AddressLine>819 Houser Way S</AddressLine>
+    <Phone>(425) 254-0759</Phone>
+    <Latitude>47.47861</Latitude>
+    <Longitude>-122.206218</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306124</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Meritage Restaurant &amp; Wine Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>7401 164th Ave. NE</AddressLine>
+    <Phone>(425) 498-4002</Phone>
+    <Latitude>47.671227</Latitude>
+    <Longitude>-122.122192</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306125</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Mick Kellys Irish Pub</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kent</Locality>
+    <PostalCode>98031</PostalCode>
+    <AddressLine>2019 W Meeker St</AddressLine>
+    <Latitude>47.380658</Latitude>
+    <Longitude>-122.262562</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306126</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Mick Kellys Irish Pub</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Burien</Locality>
+    <PostalCode>98166</PostalCode>
+    <AddressLine>435 SW 152nd ST</AddressLine>
+    <Phone>(206) 246-2473</Phone>
+    <Latitude>47.466576</Latitude>
+    <Longitude>-122.340759</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306127</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Mukilteo Lodge</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Mukilteo</Locality>
+    <PostalCode>98275</PostalCode>
+    <AddressLine>7928 Mukilteo Speedway</AddressLine>
+    <Phone>(425) 374-3333</Phone>
+    <Latitude>47.92609</Latitude>
+    <Longitude>-122.301575</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306128</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Nick’s Italian Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98005</PostalCode>
+    <AddressLine>2285 140th Ave NE</AddressLine>
+    <Phone>Receive 30% off your second adult entree of equal or lesser value</Phone>
+    <Latitude>47.630668</Latitude>
+    <Longitude>-122.153923</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306129</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Nimbus Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellingham</Locality>
+    <PostalCode>98225</PostalCode>
+    <AddressLine>119 North Commercial Street</AddressLine>
+    <Phone>(360) 676-1307</Phone>
+    <Latitude>48.752266</Latitude>
+    <Longitude>-122.4785</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306130</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>North City Bistro &amp; Wine Shop</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Shoreline</Locality>
+    <PostalCode>98155</PostalCode>
+    <AddressLine>1520 NE 177th St.</AddressLine>
+    <Phone>(206) 365-4447</Phone>
+    <Latitude>47.757633</Latitude>
+    <Longitude>-122.313049</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306131</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>OAsian Kitchen</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98104</PostalCode>
+    <AddressLine>800 5th Avenue</AddressLine>
+    <Phone>(206) 264-1789</Phone>
+    <Latitude>47.605713</Latitude>
+    <Longitude>-122.330269</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306132</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Oddfellow’s Grill on Leary</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>7979 Leary Way NE</AddressLine>
+    <Phone>20% off the bill.</Phone>
+    <Latitude>47.674511</Latitude>
+    <Longitude>-122.122917</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306133</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Olive You</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98033</PostalCode>
+    <AddressLine>89 Kirkland Ave</AddressLine>
+    <Phone>(425) 250-1555</Phone>
+    <Latitude>47.67498</Latitude>
+    <Longitude>-122.206436</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306134</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Olives Café &amp; Wine Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Edmonds</Locality>
+    <PostalCode>98020</PostalCode>
+    <AddressLine>107 5th Ave N</AddressLine>
+    <Phone>(425) 771-5757</Phone>
+    <Latitude>47.810787</Latitude>
+    <Longitude>-122.377446</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306135</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Osteria La Spiga</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98122</PostalCode>
+    <AddressLine>1429 12th Ave</AddressLine>
+    <Phone>(206) 323-8881</Phone>
+    <Latitude>47.61328</Latitude>
+    <Longitude>-122.31701</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306136</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Pabla Indian Cuisine</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98101</PostalCode>
+    <AddressLine>1516 2nd Ave.</AddressLine>
+    <Phone>(206) 623-2868</Phone>
+    <Latitude>47.609924</Latitude>
+    <Longitude>-122.33902</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306137</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Pabla Indian Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tukwila</Locality>
+    <PostalCode>98188</PostalCode>
+    <AddressLine>16860 Southcenter Pkwy</AddressLine>
+    <Phone>(206) 575-8922</Phone>
+    <Latitude>47.452042</Latitude>
+    <Longitude>-122.262258</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306138</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Paddy Coynes Irish Pub</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>1190 Thomas St.</AddressLine>
+    <Phone>(206) 405-1548</Phone>
+    <Latitude>47.620955</Latitude>
+    <Longitude>-122.333357</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets bookedBreakfast served Sat/Sun</Deal>
+  </Partner>
+  <Partner>
+    <Id>306139</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Paddy Coynes Irish Pub</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>700 Bellevue Way</AddressLine>
+    <Phone>(425) 453-8080</Phone>
+    <Latitude>47.603546420442882</Latitude>
+    <Longitude>-122.20130500690763</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.Breakfast served Sat/Sun</Deal>
+  </Partner>
+  <Partner>
+    <Id>306140</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Paddy Coynes Irish Pub</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98402</PostalCode>
+    <AddressLine>815 Pacific Ave.</AddressLine>
+    <Phone>(253) 272-6963</Phone>
+    <Latitude>47.255863</Latitude>
+    <Longitude>-122.438744</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.Breakfast served Sat/Sun</Deal>
+  </Partner>
+  <Partner>
+    <Id>306141</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Panini`s Bistro &amp; Wine Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>1177 108th Avenue NE</AddressLine>
+    <Phone>Receive up to 20% off your total bill.</Phone>
+    <Latitude>47.620921</Latitude>
+    <Longitude>-122.196521</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306142</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Pattys Eggnest</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Monroe</Locality>
+    <PostalCode>98203</PostalCode>
+    <AddressLine>19837 State Route 2</AddressLine>
+    <Phone>(360) 794-6940</Phone>
+    <Latitude>47.858217</Latitude>
+    <Longitude>-121.96496</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306143</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Pegasus Pizza</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98116</PostalCode>
+    <AddressLine>2758 Alki Ave. SW</AddressLine>
+    <Phone>(206) 932-4849</Phone>
+    <Latitude>47.578609</Latitude>
+    <Longitude>-122.411461</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off pizza</Deal>
+  </Partner>
+  <Partner>
+    <Id>306144</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Pegasus Pizza &amp; Pasta</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98033</PostalCode>
+    <AddressLine>12669 NE 85th Street</AddressLine>
+    <Phone>15% off take-out or delivery orders</Phone>
+    <Latitude>47.679241</Latitude>
+    <Longitude>-122.171554</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306145</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Peppers Mexican Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Olympia</Locality>
+    <PostalCode>98501</PostalCode>
+    <AddressLine>114 Cherry St NE</AddressLine>
+    <Phone>(360) 943-1111</Phone>
+    <Latitude>47.045526</Latitude>
+    <Longitude>-122.895298</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306146</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Pied Piper Ale House</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98115</PostalCode>
+    <AddressLine>2404 NE 65th Street</AddressLine>
+    <Phone>(206) 729-0603</Phone>
+    <Latitude>47.675917</Latitude>
+    <Longitude>-122.301474</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306147</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Plaza Garcia</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98034</PostalCode>
+    <AddressLine>12108 Juanita Dr NE</AddressLine>
+    <Phone>20% off total bill.</Phone>
+    <Latitude>47.708717</Latitude>
+    <Longitude>-122.237267</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306148</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Pogacha</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Issaquah</Locality>
+    <PostalCode>98027</PostalCode>
+    <AddressLine>120 NW Gilman</AddressLine>
+    <Phone>(425) 392-5550</Phone>
+    <Latitude>47.53986</Latitude>
+    <Longitude>-122.037941</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306149</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Ponti Seafood Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>3014 3rd Ave. N.</AddressLine>
+    <Phone>(206) 284-3000</Phone>
+    <Latitude>47.647446</Latitude>
+    <Longitude>-122.351036</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306150</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Poppy</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98102</PostalCode>
+    <AddressLine>622 Broadway E</AddressLine>
+    <Phone>(206) 324-1108</Phone>
+    <Latitude>47.624495</Latitude>
+    <Longitude>-122.320757</Longitude>
+    <Deal>$12 off 2nd Thali</Deal>
+  </Partner>
+  <Partner>
+    <Id>306151</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Ports of Call at La Quinta</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98421</PostalCode>
+    <AddressLine>1425 East 27th Street</AddressLine>
+    <Phone>(253) 272-6731</Phone>
+    <Latitude>47.239547</Latitude>
+    <Longitude>-122.413063</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306152</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Preservation Kitchen</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bothell</Locality>
+    <PostalCode>98011</PostalCode>
+    <AddressLine>17121 Bothell Way NE</AddressLine>
+    <Phone>(425) 408-1306</Phone>
+    <Latitude>47.752297</Latitude>
+    <Longitude>-122.211951</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306153</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Primo Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98405</PostalCode>
+    <AddressLine>601 S Pine Street</AddressLine>
+    <Phone>(253) 383-7000</Phone>
+    <Latitude>47.25502</Latitude>
+    <Longitude>-122.47332</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306154</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Racha Noodle &amp; Thai</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Woodinville</Locality>
+    <PostalCode>98072</PostalCode>
+    <AddressLine>13317 NE 175th St.</AddressLine>
+    <Phone>(425) 481-8833</Phone>
+    <Latitude>47.753784</Latitude>
+    <Longitude>-122.16069</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306155</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Racha Noodle &amp; Thai</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>23 Mercer Street</AddressLine>
+    <Phone>(206) 281-8883</Phone>
+    <Latitude>47.624306</Latitude>
+    <Longitude>-122.355637</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306156</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Racha Thai &amp; Asian Kitchen</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tukwila</Locality>
+    <PostalCode>98188</PostalCode>
+    <AddressLine>1150 Southcenter Parkway</AddressLine>
+    <Phone>(206) 768-8883</Phone>
+    <Latitude>47.459406</Latitude>
+    <Longitude>-122.255532</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306157</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Racha Thai &amp; Asian Kitchen</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Olympia</Locality>
+    <PostalCode>98502</PostalCode>
+    <AddressLine>625 Black Lake Blvd.</AddressLine>
+    <Phone>(360) 943-8883</Phone>
+    <Latitude>47.041145</Latitude>
+    <Longitude>-122.930342</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders</Deal>
+  </Partner>
+  <Partner>
+    <Id>306158</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Rays Boathouse</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98107</PostalCode>
+    <AddressLine>6049 Seaview Ave. NW</AddressLine>
+    <Phone>(206) 789-3770</Phone>
+    <Latitude>47.673496</Latitude>
+    <Longitude>-122.407372</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306159</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Rays Boathouse</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98107</PostalCode>
+    <AddressLine>6049 Seaview Ave NW</AddressLine>
+    <Phone>party (party meaning 2 or more people) complimentary.</Phone>
+    <Latitude>47.673496</Latitude>
+    <Longitude>-122.407372</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306160</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Rays Cafe</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98107</PostalCode>
+    <AddressLine>6049 Seaview Ave. NW</AddressLine>
+    <Phone>(206) 789-3770</Phone>
+    <Latitude>47.673496</Latitude>
+    <Longitude>-122.407372</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306161</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Rays Café</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98107</PostalCode>
+    <AddressLine>6049 Seaview Ave. NW</AddressLine>
+    <Phone>party (party meaning 2 or more people) complimentary.</Phone>
+    <Latitude>47.673496</Latitude>
+    <Longitude>-122.407372</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306162</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Rikki Rikki</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98033</PostalCode>
+    <AddressLine>442 Parkplace Center</AddressLine>
+    <Phone>(425) 828-0707</Phone>
+    <Latitude>47.678986</Latitude>
+    <Longitude>-122.198261</Longitude>
+    <Deal>20% off total guest check(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306163</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Rock Salt on Lake Union</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>1232 Westlake Ave. N.</AddressLine>
+    <Phone>(206) 284-1047</Phone>
+    <Latitude>47.631436</Latitude>
+    <Longitude>-122.340794</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306164</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Rosebud Restaurant &amp; Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98122</PostalCode>
+    <AddressLine>719 E. Pike Street</AddressLine>
+    <Phone>(206) 323-6636</Phone>
+    <Latitude>47.61395</Latitude>
+    <Longitude>-122.323018</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306165</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Rovers</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98112</PostalCode>
+    <AddressLine>2808 East Madison Street</AddressLine>
+    <Phone>(206) 325-7442</Phone>
+    <Latitude>47.623728</Latitude>
+    <Longitude>-122.296185</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.When ordering multiple course meals, least expensive a la cartewill be compliments10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306166</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Royal Argosy Dining Cruises</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98101</PostalCode>
+    <AddressLine>Pier 56</AddressLine>
+    <Phone>(206) 623-1445</Phone>
+    <Latitude>47.61197487387868</Latitude>
+    <Longitude>-122.3314610917314</Longitude>
+    <Deal>20% off Dining Cruise ExperienceThemed Events Excluded</Deal>
+  </Partner>
+  <Partner>
+    <Id>306167</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Russells</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bothell</Locality>
+    <PostalCode>98021</PostalCode>
+    <AddressLine>3305 Monte Villa Parkway</AddressLine>
+    <Phone>(425) 486-4072</Phone>
+    <Latitude>47.778687</Latitude>
+    <Longitude>-122.188385</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306168</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Sadya Palace</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98007</PostalCode>
+    <AddressLine>14125 Ne 20th St</AddressLine>
+    <Phone>20% off the total bill.</Phone>
+    <Latitude>47.627144</Latitude>
+    <Longitude>-122.151253</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306169</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Salish Lodge &amp; Spa</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Snoqualmie</Locality>
+    <PostalCode>98065</PostalCode>
+    <AddressLine>6501 Railroad Avenue</AddressLine>
+    <Phone>Rate. Spa: 20% off spa treatments and 25% off spa retail.</Phone>
+    <Latitude>47.536993057170278</Latitude>
+    <Longitude>-121.83146392372979</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306170</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Salmon Creek Sushi</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98034</PostalCode>
+    <AddressLine>11628 97th Lane N.E.</AddressLine>
+    <Phone>Present your Microsoft PRIME card to receive 20% off guest check.</Phone>
+    <Latitude>47.70497</Latitude>
+    <Longitude>-122.211359</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306171</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Seven Hills Grille</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98188</PostalCode>
+    <AddressLine>17338 International Blvd.</AddressLine>
+    <Phone>(206) 248-1000</Phone>
+    <Latitude>47.447029</Latitude>
+    <Longitude>-122.295403</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306172</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Shalimar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98105</PostalCode>
+    <AddressLine>4214 University Way NE</AddressLine>
+    <Phone>20% off the total bill (excludes Penny Pincher Specials)</Phone>
+    <Latitude>47.658775</Latitude>
+    <Longitude>-122.312866</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306173</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Sip at the Wine Bar &amp; Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Issaquah</Locality>
+    <PostalCode>98029</PostalCode>
+    <AddressLine>1084 NE Park Dr</AddressLine>
+    <Phone>(425) 369-1181</Phone>
+    <Latitude>47.543747</Latitude>
+    <Longitude>-122.015265</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306174</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Sip at the Wine Bar &amp; Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98104</PostalCode>
+    <AddressLine>909 5th Ave</AddressLine>
+    <Phone>(206) 682-2779</Phone>
+    <Latitude>47.605809</Latitude>
+    <Longitude>-122.331367</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306175</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>SkyCity Restaurant at The Needle</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>400 Broad St</AddressLine>
+    <Phone>(800) 937-9582</Phone>
+    <Latitude>47.619994</Latitude>
+    <Longitude>-122.348826</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306176</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Snoqualmie Brewery and Taproom</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Snoqualmie</Locality>
+    <PostalCode>98065</PostalCode>
+    <AddressLine>8032 Falls Avenue</AddressLine>
+    <Phone>(425) 831-2357</Phone>
+    <Latitude>47.528297</Latitude>
+    <Longitude>-121.823958</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders</Deal>
+  </Partner>
+  <Partner>
+    <Id>306177</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Spencers for Steak &amp; Chops</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98188</PostalCode>
+    <AddressLine>17620 Pacific Hwy. S</AddressLine>
+    <Phone>(206) 248-7153</Phone>
+    <Latitude>47.44516116377946</Latitude>
+    <Longitude>-122.29623097599247</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306178</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Sullivans Steakhouse of Washington</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98101</PostalCode>
+    <AddressLine>621 Union St</AddressLine>
+    <Phone>(206) 494-4442</Phone>
+    <Latitude>47.610154</Latitude>
+    <Longitude>-122.333152</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.Seattle location only.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306179</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Sushi Mori</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>2801 1st Ave.</AddressLine>
+    <Phone>(206) 832-6024</Phone>
+    <Latitude>47.616353</Latitude>
+    <Longitude>-122.351863</Longitude>
+    <Deal>20% off total guest check(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306180</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>T.S. McHughs</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>21 Mercer St.</AddressLine>
+    <Phone>(206) 282-1910</Phone>
+    <Latitude>47.624306</Latitude>
+    <Longitude>-122.355881</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306181</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Taberna Del Alabardero</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>2328 1st Ave</AddressLine>
+    <Phone>(206) 448-8884</Phone>
+    <Latitude>47.613751</Latitude>
+    <Longitude>-122.346847</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306182</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Talay Thai</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Snoqualmie</Locality>
+    <PostalCode>98065</PostalCode>
+    <AddressLine>7713 SE Center Blvd</AddressLine>
+    <Phone>(425) 396-5550</Phone>
+    <Latitude>47.531119</Latitude>
+    <Longitude>-121.873685</Longitude>
+    <Deal>20% off total guest check(up to six adults)20% off on all 'To Go' orders</Deal>
+  </Partner>
+  <Partner>
+    <Id>306183</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Tap House Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>550 106th Ave. NE</AddressLine>
+    <Suite>101</Suite>
+    <Phone>(425) 467-1730</Phone>
+    <Latitude>47.615131</Latitude>
+    <Longitude>-122.198059</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306184</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Terrace Garden</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98101</PostalCode>
+    <AddressLine>1415 Fifth Ave.</AddressLine>
+    <Phone>(206) 971-8000</Phone>
+    <Latitude>47.60979</Latitude>
+    <Longitude>-122.335031</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306185</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Big Fat Fish Company</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellingham</Locality>
+    <PostalCode>98225</PostalCode>
+    <AddressLine>1304 12th Street</AddressLine>
+    <Phone>(360) 733-2284</Phone>
+    <Latitude>48.71999</Latitude>
+    <Longitude>-122.502427</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306186</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Broadway Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98102</PostalCode>
+    <AddressLine>314 Broadway East</AddressLine>
+    <Phone>(206) 328-7000</Phone>
+    <Latitude>47.621578</Latitude>
+    <Longitude>-122.320595</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306187</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Café at Preservation Kitchen</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bothell</Locality>
+    <PostalCode>98011</PostalCode>
+    <AddressLine>17121 Bothell Way NE</AddressLine>
+    <Phone>(425) 408-1306</Phone>
+    <Latitude>47.752297</Latitude>
+    <Longitude>-122.211951</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306188</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Cliff House Restaurant &amp; Lounge</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98422</PostalCode>
+    <AddressLine>6300 Marine View Dr</AddressLine>
+    <Phone>(253) 927-0400</Phone>
+    <Latitude>47.2984</Latitude>
+    <Longitude>-122.429405</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306189</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Clubhouse at McCormick Woods</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Port Orchard</Locality>
+    <PostalCode>98367</PostalCode>
+    <AddressLine>5155 McCormick Woods Dr SW</AddressLine>
+    <Phone>(360) 895-0142</Phone>
+    <Latitude>47.501759</Latitude>
+    <Longitude>-122.689346</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306190</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Crab Cracker</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98033</PostalCode>
+    <AddressLine>452 Central Way</AddressLine>
+    <Phone>(425) 827-8700</Phone>
+    <Latitude>47.678699</Latitude>
+    <Longitude>-122.199655</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306191</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Georgian</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98101</PostalCode>
+    <AddressLine>411 University St</AddressLine>
+    <Phone>(206) 621-7889</Phone>
+    <Latitude>47.608182</Latitude>
+    <Longitude>-122.334532</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.When ordering multiple course meals, least expensive a la cartewill be compliments20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306192</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Green Turtle Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Gig Harbor</Locality>
+    <PostalCode>98335</PostalCode>
+    <AddressLine>2905 Harborview Dr NW</AddressLine>
+    <Phone>(253) 851-3167</Phone>
+    <Latitude>47.328171</Latitude>
+    <Longitude>-122.577126</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306193</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Herbfarm Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Woodinville</Locality>
+    <PostalCode>98072</PostalCode>
+    <AddressLine>14590 NE 145th St</AddressLine>
+    <Phone>(425) 485-5300</Phone>
+    <Latitude>47.732964</Latitude>
+    <Longitude>-122.146556</Longitude>
+    <Deal>When ordering multiple course meals, $30 will be deducted from thebill.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306194</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Heritage Restaurant</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Gig Harbor</Locality>
+    <PostalCode>98335</PostalCode>
+    <AddressLine>3211 56th St. NW</AddressLine>
+    <Phone>(253) 858-1111</Phone>
+    <Latitude>47.310108</Latitude>
+    <Longitude>-122.582092</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306195</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Hunt Club</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98104</PostalCode>
+    <AddressLine>900 Madison Ave</AddressLine>
+    <Phone>(206) 343-6156</Phone>
+    <Latitude>47.608955</Latitude>
+    <Longitude>-122.326767</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306196</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Melting Pot</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>14 Mercer Street</AddressLine>
+    <Phone>(206) 378-1208</Phone>
+    <Latitude>47.624707</Latitude>
+    <Longitude>-122.356385</Longitude>
+    <Deal>20% off total guest check(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306197</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Melting Pot</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98402</PostalCode>
+    <AddressLine>2121 Pacific Ave.</AddressLine>
+    <Phone>(253) 535-3939</Phone>
+    <Latitude>47.242283</Latitude>
+    <Longitude>-122.435616</Longitude>
+    <Deal>20% off total guest check(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306198</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Melting Pot</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>302 108th Ave. NE</AddressLine>
+    <Phone>(425) 646-2744</Phone>
+    <Latitude>47.613055</Latitude>
+    <Longitude>-122.196035</Longitude>
+    <Deal>20% off total guest check(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306199</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Orexi</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>31 Bellevue Way NE</AddressLine>
+    <Phone>(425) 455-5344</Phone>
+    <Latitude>47.610472</Latitude>
+    <Longitude>-122.201724</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306200</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>The Signature</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98109</PostalCode>
+    <AddressLine>530 1st Ave N</AddressLine>
+    <Phone>(206) 283-6614</Phone>
+    <Latitude>47.623632</Latitude>
+    <Longitude>-122.355214</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306201</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Tony Maroni’s Pizza</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98053</PostalCode>
+    <AddressLine>22310 NE Marketplace Drive</AddressLine>
+    <Suite>116</Suite>
+    <Phone>Receive 20% off your entire order</Phone>
+    <Latitude>47.69445</Latitude>
+    <Longitude>-122.042191</Longitude>
+  </Partner>
+  <Partner>
+    <Id>306202</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Toscano</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>1177 108th Avenue NE</AddressLine>
+    <Phone>(425) 460-6260</Phone>
+    <Latitude>47.620921</Latitude>
+    <Longitude>-122.196521</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306203</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Turners Dining &amp; Spirits</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Everett</Locality>
+    <PostalCode>98201</PostalCode>
+    <AddressLine>2015 Hewitt Ave</AddressLine>
+    <Phone>(425) 610-4379</Phone>
+    <Latitude>47.97936</Latitude>
+    <Longitude>-122.202625</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone20% off on all 'To Go' orders</Deal>
+  </Partner>
+  <Partner>
+    <Id>306204</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Twist Restaurant &amp; Lounge</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>2313 1st Ave.</AddressLine>
+    <Phone>(206) 448-9478</Phone>
+    <Latitude>47.613445</Latitude>
+    <Longitude>-122.346941</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306205</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Typhoon</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>8936 161st Ave NE</AddressLine>
+    <Phone>(425) 558-7666</Phone>
+    <Latitude>47.681605</Latitude>
+    <Longitude>-122.125298</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306206</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Urban Onion</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Olympia</Locality>
+    <PostalCode>98107</PostalCode>
+    <AddressLine>116 Legion Way</AddressLine>
+    <Phone>(360) 943-9242</Phone>
+    <Latitude>47.043190870745867</Latitude>
+    <Longitude>-122.90161796288739</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306207</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Varsity Grill</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Tacoma</Locality>
+    <PostalCode>98402</PostalCode>
+    <AddressLine>1114 Broadway</AddressLine>
+    <Phone>(253) 627-1229</Phone>
+    <Latitude>47.252556</Latitude>
+    <Longitude>-122.440353</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306208</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Verrazanos Ristorante</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Federal Way</Locality>
+    <PostalCode>98003</PostalCode>
+    <AddressLine>28835 Pacific Hwy S</AddressLine>
+    <Phone>(253) 946-4122</Phone>
+    <Latitude>47.342262</Latitude>
+    <Longitude>-122.312912</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306209</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Via Vita Café &amp; Wine Bar</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bellevue</Locality>
+    <PostalCode>98004</PostalCode>
+    <AddressLine>1032 106th Ave NE</AddressLine>
+    <Phone>(425) 449-8917</Phone>
+    <Latitude>47.619658</Latitude>
+    <Longitude>-122.198919</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off coffee bar &amp; pastries20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306210</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Villa Nuova Ristorante Italiano</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Bothell</Locality>
+    <PostalCode>98012</PostalCode>
+    <AddressLine>17917 Bothell-Everett Hwy</AddressLine>
+    <Phone>(425) 486-1428</Phone>
+    <Latitude>47.835661</Latitude>
+    <Longitude>-122.211227</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone10% savings on banquets booked</Deal>
+  </Partner>
+  <Partner>
+    <Id>306211</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Vinces Italian Restaurant &amp; Pizzeria</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Burien</Locality>
+    <PostalCode>98056</PostalCode>
+    <AddressLine>15223 4th Ave. SW</AddressLine>
+    <Phone>(206) 246-1497</Phone>
+    <Latitude>47.466556</Latitude>
+    <Longitude>-122.339423</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306212</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Vinces Italian Restaurant &amp; Pizzeria</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Renton</Locality>
+    <PostalCode>98056</PostalCode>
+    <AddressLine>2815 Sunset Blvd NE</AddressLine>
+    <Phone>(425) 226-8180</Phone>
+    <Latitude>47.50008</Latitude>
+    <Longitude>-122.180266</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306213</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Vinces Italian Restaurant &amp; Pizzeria</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Federal Way</Locality>
+    <PostalCode>98003</PostalCode>
+    <AddressLine>32411 Pacific Highway S.</AddressLine>
+    <Phone>(253) 839-1496</Phone>
+    <Latitude>47.311253</Latitude>
+    <Longitude>-122.314285</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306214</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Vinces Italian Restaurant &amp; Pizzeria</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98166</PostalCode>
+    <AddressLine>8824 Renton Ave S</AddressLine>
+    <Phone>(206) 722-2116</Phone>
+    <Latitude>47.524113</Latitude>
+    <Longitude>-122.276327</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.</Deal>
+  </Partner>
+  <Partner>
+    <Id>306215</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Wann Japanese Izakaya</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Seattle</Locality>
+    <PostalCode>98121</PostalCode>
+    <AddressLine>2020 2nd Avenue</AddressLine>
+    <Phone>(206) 441-5637</Phone>
+    <Latitude>47.612038</Latitude>
+    <Longitude>-122.341954</Longitude>
+    <Deal>20% off total guest check(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306216</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Watercress Asian Bistro</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Redmond</Locality>
+    <PostalCode>98052</PostalCode>
+    <AddressLine>16505 Redmond Way</AddressLine>
+    <Phone>(425) 284-3188</Phone>
+    <Latitude>47.673443</Latitude>
+    <Longitude>-122.120379</Longitude>
+    <Deal>20% off total guest check(up to six adults)</Deal>
+  </Partner>
+  <Partner>
+    <Id>306217</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Wilde Rover</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Kirkland</Locality>
+    <PostalCode>98033</PostalCode>
+    <AddressLine>111 Central Way</AddressLine>
+    <Phone>(425) 822-8940</Phone>
+    <Latitude>47.676396</Latitude>
+    <Longitude>-122.207417</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.20% off total bill when dining alone</Deal>
+  </Partner>
+  <Partner>
+    <Id>306218</Id>
+    <Categ>3</Categ>
+    <SubCateg>6</SubCateg>
+    <Name>Woodman Lodge Steakhouse &amp; Saloon</Name>
+    <CountryRegion>US</CountryRegion>
+    <AdminDistrict>WA</AdminDistrict>
+    <Locality>Snoqualmie</Locality>
+    <PostalCode>98065</PostalCode>
+    <AddressLine>38601 SE King St</AddressLine>
+    <Phone>(425) 888-4441</Phone>
+    <Latitude>47.528385</Latitude>
+    <Longitude>-121.826227</Longitude>
+    <Deal>Receive the second adult entrée of equal or lesser value in theparty (party meaning 2 or more people) complimentary.10% savings on banquets booked</Deal>
+  </Partner>
+</ArrayOfPartner>
